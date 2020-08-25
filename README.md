@@ -8,6 +8,10 @@
 * [1026.Maximum Difference Between Node and Ancestor](tree/1026.md)
 * [1028.Recover a Tree From Preorder Traversal](tree/1028.md)
 
+## Binary Search
+
+* [1552.Magnetic Force Between Two Balls](binary-search/1552.md)
+
 
 ## Dynamic Programming
 
