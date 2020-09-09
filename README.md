@@ -3,6 +3,9 @@
 
 
 ## Tree
+> Tree traversal
+* [1022.Sum of Root To Leaf Binary Numbers](tree/1022.md)
+
 > DFS in Tree 
 * [99.Recover Binary Search Tree](tree/99.md)
 * [1026.Maximum Difference Between Node and Ancestor](tree/1026.md)
