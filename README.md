@@ -18,7 +18,8 @@
 
 ## Back Tracking
 
-* [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
+* [216. Combination Sum III](BackTracking/216.md)
+* [51. N-Queens](https://leetcode.com/problems/n-queens/)
 
 ## Dynamic Programming
 > Typical Dynamic Programming
